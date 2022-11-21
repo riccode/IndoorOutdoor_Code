@@ -94,7 +94,7 @@ Sphinx==1.6.5
 sphinxcontrib-websupport==1.0.1
 statsmodels==0.8.0
 tensorflow==1.4.0
-tensorflow-gpu==0.12.1
+tensorflow-gpu==2.9.3
 tensorflow-tensorboard==0.4.0rc3
 testpath==0.3.1
 tornado==4.5.2
